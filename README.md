@@ -8,10 +8,8 @@ I also have some experience in Backend Web development.
 Check out some of my projects here in my Github profile.
 
 ## You can reach me on the following links:
-<div style="display: flex">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" href="https://www.linkedin.com/in/jawwadfida/" style="width: 30px"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" href="https://www.facebook.com/Jawwad.Fida/" style="width: 30px;"/>
-</div>
+
+[Linkedin](https://www.linkedin.com/in/jawwadfida/), [Facebook](https://www.facebook.com/Jawwad.Fida/)
 
 ## Languages and Technologies that I know
 
@@ -35,8 +33,8 @@ Check out some of my projects here in my Github profile.
 <br>
 <br>
 
-[![Jawwadul Islam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jawwad-Fida&theme=radical&hide=prs,issues)](https://github.com/Jawwad-Fida/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jawwad-Fida&layout=compact&theme=radical)](https://github.com/Jawwad-Fida/github-readme-stats)
+[![Jawwadul Islam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jawwad-Fida&theme=radical&hide=prs,issues)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jawwad-Fida&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![](https://komarev.com/ghpvc/?username=Jawwad-Fida&label=PROFILE+VIEWS)
