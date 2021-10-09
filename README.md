@@ -1,10 +1,42 @@
-- 👋 Hi, I’m @Jawwad-Fida
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi There !!!!
 
-<!---
-Jawwad-Fida/Jawwad-Fida is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My name is Mohammed Jawwadul Islam. I am currently pursuing a bachelor's degree in Computer Science and Engineering at <a href="https://www.uiu.ac.bd/">United International University</a> in Bangladesh. Eager to expand my knowledge and experience new things. 
+
+My fields of interest are - Research, Artificial Intelligence, Machine learning, Deep learning, Data Analytics.
+I also have some experience in Backend Web development. 
+
+Check out some of my projects here in my Github profile.
+
+## You can reach me on the following links:
+<div style="display: flex">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" href="https://www.linkedin.com/in/jawwadfida/" style="width: 30px"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" href="https://www.facebook.com/Jawwad.Fida/" style="width: 30px;"/>
+</div>
+
+## Languages and Technologies that I know
+
+<div style="display: flex">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="width: 50px"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="width: 50px"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="width: 50px"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="width: 50px"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="width: 50px"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="width: 50px;"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" style="width: 50px;"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="width: 50px;"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="width: 50px;"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="width: 50px;"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="width: 50px;"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" style="width: 50px;"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="width: 50px;"/> 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="width: 50px;"/>
+</div>
+
+<br>
+<br>
+
+[![Jawwadul Islam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jawwad-Fida&theme=radical&hide=prs,issues)](https://github.com/Jawwad-Fida/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jawwad-Fida&layout=compact&theme=radical)](https://github.com/Jawwad-Fida/github-readme-stats)
+
+
+![](https://komarev.com/ghpvc/?username=Jawwad-Fida&label=PROFILE+VIEWS)
