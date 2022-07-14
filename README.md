@@ -43,7 +43,7 @@ projects that would make an immediate impact.
 1. Bachelor Thesis Topic:  Predicting Irregular Sleeping Pattern from Social Media: A Psycholinguistic Analysis From Tweets
 - Supervisor: Dr. Md. Saddam Hossain Mukta, Associate Professor and Undergraduate Coordinator, United International University.
 - Domain: Machine Learning, Data Science, and Mental Health
-- Tools: Twitter API - Tweepy (Web Scraping), LIWC2015, Python, Tensorflow, Keras, Numpy, Pandas, Matplotlib, Seaborn, Sklearn, etc.
+- Tools: Twitter API - Tweepy (Web Scraping), LIWC, Python, Tensorflow, Keras, Numpy, Pandas, Matplotlib, Seaborn, Sklearn, etc.
 - Models: Machine Learning Classifiers, BI-LSTM, BERT, 1D CNN, etc.
 
  
