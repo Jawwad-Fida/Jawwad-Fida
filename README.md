@@ -42,13 +42,13 @@ projects that would make an immediate impact.
 ## Research Experience:
 1. Predicting Irregular Sleeping Pattern from Social Media: A Psycholinguistic Analysis From Tweets (Ongoing)
 - Supervisor: Dr. Md. Saddam Hossain Mukta, Associate Professor and Undergraduate Coordinator, United International University.
-- Domain: Machine Learning, Data Science, and Mental Health
+- Domain: Machine Learning, Data Science, Mental Health, Social Media
 - Tools: Twitter API - Tweepy (Web Scraping), LIWC, Python, Tensorflow, Keras, Numpy, Pandas, Matplotlib, Seaborn, Sklearn, etc.
 - Models: Machine Learning Classifiers, BI-LSTM, BERT, 1D CNN, etc.
 
 2. Social Media Research: A Review on User Behavior (Ongoing)
 - Supervisor: Dr. Md. Saddam Hossain Mukta, Associate Professor and Undergraduate Coordinator, United International University.
-- Domain: Machine Learning, Mental Health, and User Behavior
+- Domain: Machine Learning, Mental Health, User Behavior, Social Media
 
 <br>
 
