@@ -34,8 +34,10 @@ projects that would make an immediate impact.
 
 <hr>
 
-#### Platforms
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" style="width: 50px;"/> 
+#### Version Control
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="width: 50px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="width: 50px;"/>
+
+<hr>
 
 <br>
 
@@ -50,12 +52,14 @@ projects that would make an immediate impact.
 - Supervisor: Dr. Md. Saddam Hossain Mukta, Associate Professor and Undergraduate Coordinator, United International University.
 - Domain: Machine Learning, Mental Health, User Behavior, Social Media
 
+<hr>
 <br>
 
 ## Github Stats:
-
 [![Jawwad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jawwad-Fida&theme=radical&hide=issues&show_icons=true&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jawwad-Fida&layout=compact&theme=radical&langs_count=6&count_private=true&hide=html,css,handlebars&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![Jawwad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jawwad-Fida&show_icons=true&theme=radical)
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Jawwad-Fida&theme=monokai&row=1&title=Stars,Commit,PR,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
 
