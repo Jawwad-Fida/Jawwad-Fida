@@ -56,10 +56,8 @@ projects that would make an immediate impact.
 <br>
 
 ## Github Stats:
-[![Jawwad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jawwad-Fida&theme=radical&hide=issues&show_icons=true&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jawwad-Fida&layout=compact&theme=radical&langs_count=6&count_private=true&hide=html,css,handlebars&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 ![Jawwad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jawwad-Fida&show_icons=true&theme=radical)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jawwad-Fida&layout=compact&theme=radical&langs_count=6&count_private=true&hide=html,css,handlebars&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Jawwad-Fida&theme=monokai&row=1&title=Stars,Commit,PR,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
 
