@@ -41,15 +41,6 @@ projects that would make an immediate impact.
 
 <br>
 
-## Research Experience:
-1. Predicting Irregular Sleeping Patterns from Tweets
-- Supervisor: Dr. Md. Saddam Hossain Mukta, Associate Professor and Undergraduate Coordinator, United International University.
-- Domain: Data Science, Deep Learning, Natural Language Processing, Mental Health, Psycholinguistic Patterns, Social Media.
-- Tools: Twitter API - Tweepy (Web Scraping), LIWC2015, IBM SPSS Statistical Software.
-
-<hr>
-<br>
-
 ## Github Stats:
 ![Jawwad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jawwad-Fida&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jawwad-Fida&layout=compact&theme=radical&langs_count=6&count_private=true&hide=html,css,handlebars&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
