@@ -4,13 +4,13 @@ My name is Mohammed Jawwadul Islam. I am currently pursuing a bachelor's degree 
 projects that would make an immediate impact. 
 
 ## My interests:
-- Back-end Web Development
-- Data Analytics
-- Artificial Intelligence, Machine learning, Deep learning
+- Web Development
+- Data Science
+- Machine learning, Deep learning Research
 
 ## Connect:
-<a target="_blank" href="https://www.linkedin.com/in/jawwadfida/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="width: 50px" /></a>
-<a target="_blank" href="mailto:jawwad.fida@gmail.com"><img src="https://user-images.githubusercontent.com/64092765/178427267-133abe7d-d825-4569-adab-3a4816fdcd99.png" style="width: 50px" /></a>
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/Jawwad.Fida) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/jawwadfida/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)](https://wa.me/01715199382)
 
 
 ## Tools and Technologies I know
@@ -41,12 +41,15 @@ projects that would make an immediate impact.
 
 <br>
 
-## Github Stats:
-![Jawwad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jawwad-Fida&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jawwad-Fida&layout=compact&theme=radical&langs_count=6&count_private=true&hide=html,css,handlebars&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+## :fire: Github Stats :
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Jawwad-Fida&theme=radical&show_icons=true&hide_border=true&count_private=true)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jawwad-Fida&theme=radical&show_icons=true&hide_border=true&layout=compact)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jawwad-Fida&theme=radical&hide_border=true)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Jawwad-Fida&theme=monokai&row=1&title=Stars,Commit,PR,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 
 
