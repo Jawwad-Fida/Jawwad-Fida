@@ -1,6 +1,6 @@
 # Hi There !!!!
 
-My name is Mohammed Jawwadul Islam. I am currently pursuing a bachelor's degree in Computer Science and Engineering at <a href="https://www.uiu.ac.bd/">United International University</a> in Bangladesh. Optimistic and ambitious, with a passion to work with talented people and collaborate to make
+My name is Mohammed Jawwadul Islam. I completed my graduation in Bachelor of Science in Computer Science and Engineering (CSE) from <a href="https://www.uiu.ac.bd/">United International University</a>, Dhaka Bangladesh. Optimistic and ambitious, with a passion to work with talented people and collaborate to make
 projects that would make an immediate impact. 
 
 ## My interests:
