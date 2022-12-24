@@ -1,12 +1,12 @@
 # Hi There !!!!
 
-My name is Mohammed Jawwadul Islam. I completed my graduation in Bachelor of Science in Computer Science and Engineering (CSE) from <a href="https://www.uiu.ac.bd/">United International University</a>, Dhaka Bangladesh. Optimistic and ambitious, with a passion to work with talented people and collaborate to make
-projects that would make an immediate impact. 
+My name is Mohammed Jawwadul Islam. I completed my graduation in Bachelor of Science in Computer Science and Engineering (CSE) from <a href="https://www.uiu.ac.bd/">United International University</a>, Dhaka, Bangladesh. I am currently working as **Specialist, Enterprise and OTT Solutions** at <a href="https://www.robi.com.bd/en">Robi Axiata Limited</a>, Dhaka, Bangladesh. Optimistic and ambitious, with a passion to work with talented people and collaborate to make projects that would make an immediate impact. 
 
 ## My interests:
-- Web Development
+- Software Engineering
 - Data Science
-- Machine learning, Deep learning Research
+- Machine learning, Deep learning Research in Natural Language Processing (NLP)
+- Project Management
 
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif?cid=ecf05e47hp1renlgjsrst74qdkf9gtk1a66h25wusm26x9as&rid=giphy.gif&ct=s" width="200"/ alt="developer">
