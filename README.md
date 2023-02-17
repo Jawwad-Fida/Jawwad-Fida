@@ -55,9 +55,10 @@ My name is Mohammed Jawwadul Islam. I completed my graduation in Bachelor of Sci
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Jawwad-Fida&theme=onedark&show_icons=true&hide_border=true&count_private=true) ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jawwad-Fida&theme=onedark&show_icons=true&hide_border=true&layout=compact)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jawwad-Fida&theme=onedark&hide_border=true)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jawwad-Fida&theme=gruvbox)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Jawwad-Fida&theme=monokai&row=1&title=Stars,Commit,PR,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
 
 
+  
 
